@@ -84,12 +84,6 @@ span {
     transform: translateX(26px);
   }
 
-  .dark-mode.active {
-    background-color: rgb(37, 37, 37);
-    color: rgb(255, 226, 210);
-  }
-
-
 /* Accordion */
 
 .accordion-wrapper {
